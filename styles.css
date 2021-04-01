@@ -1,0 +1,90 @@
+
+h1{
+    color: white;
+    margin: 0;
+    padding: 10px;
+    padding-inline-start: 600px;
+    
+}
+header{
+    background-color: rgb(63, 238, 206);
+    height: 55px;
+}
+body{
+    margin: 0;
+}
+h2{
+    color: white;
+    margin: 10px;
+    display: inline-block;
+    padding-inline-start: 20px;
+    padding-inline-end: 20px;
+}
+h4{
+
+    padding-inline-start: 30px;
+    margin: 0;
+}
+
+form{
+    padding-inline-start: 60px;
+    margin: 10px;
+
+}
+.text{
+    padding-inline-start: 54px;
+    width: 400px;
+}
+
+
+.hobby{
+    background-color: turquoise;
+
+   
+}
+
+.contact {
+    background-color: violet;
+}
+
+.message {
+    background-color:rgb(79, 111, 255);
+}
+
+textarea{
+    resize: none;
+}
+
+.last {
+    display: block;
+    margin-bottom: 100px;
+}
+
+.s {
+    background-color: rgb(16, 129, 133);
+    color: white;
+    width: 150px;
+    height: 30px;
+    font-size: 20px;
+    border-width: 0;
+    margin: 5px;
+    margin-left: 105px;
+   
+
+    
+}
+.s:hover {
+    background-color: turquoise;
+
+}
+ a:hover {
+     color:violet;
+ }
+ .s:active {
+     background-color:tomato;
+ }
+
+ .hello {
+     margin: 10px;
+
+ }
